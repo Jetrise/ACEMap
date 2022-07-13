@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Gallifrey",
-        "color": "purple",
+        "fill": "purple",
         "SD_NAME": "Gee"
       },
       "geometry": {
