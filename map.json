@@ -1267,8 +1267,7 @@
         "marker-color": "#33d17a",
         "marker-size": "medium",
         "marker-symbol": "",
-        "marker-name": "Test",
-        "icon": "https://raw.githubusercontent.com/Jetrise/ACEMap/main/blu_airbase.png"
+        "marker-name": "Test"
       },
       "geometry": {
         "type": "Point",
