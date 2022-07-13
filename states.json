@@ -135,10 +135,8 @@
       "type": "Feature",
       "properties": {
         "fillColor": "#DC4405",
-    "strokeWeight": 0,
-    "fillOpacity": 1,
-    "clickable": true,
-    "zIndex": 400,
+    "fillOpacity": 1
+
       },
       "geometry": {
         "type": "Polygon",
