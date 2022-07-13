@@ -124,9 +124,12 @@
               45.202
             ]
           ]
-        ]
+        ],
+        "className":{
+                 "baseVal":"line"
+              }
       
-      }
+      },
     },
     {
       "type": "Feature",
