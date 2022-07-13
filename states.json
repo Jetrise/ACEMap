@@ -134,8 +134,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Halcyon",
-        "fill": "#555555"
+        fillColor: "#DC4405",
+    center: center,
+    strokeWeight: 0,
+    fillOpacity: 1,
+    clickable: true,
+    zIndex: 400,
       },
       "geometry": {
         "type": "Polygon",
