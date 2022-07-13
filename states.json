@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Gallifrey",
-        "color": "purple",
+        "fill": "purple",
         "SD_NAME": "Gee"
       },
       "geometry": {
@@ -132,7 +132,7 @@
       "type": "Feature",
       "properties": {
         "name": "Halcyon",
-        "color": "green"
+        "fill": "green"
       },
       "geometry": {
         "type": "Polygon",
@@ -262,7 +262,7 @@
       "type": "Feature",
       "properties": {
         "name": "Malazan",
-        "color": "blue"
+        "fill": "blue"
       },
       "geometry": {
         "type": "Polygon",
@@ -364,7 +364,7 @@
       "type": "Feature",
       "properties": {
         "name": "Valinor",
-        "color": "red"
+        "fill": "red"
       },
       "geometry": {
         "type": "Polygon",
@@ -438,7 +438,7 @@
       "type": "Feature",
       "properties": {
         "name": "Uno Islands",
-        "color": "yellow",
+        "fill": "yellow",
         "labelAngle": 0
       },
       "geometry": {
@@ -509,7 +509,7 @@
       "type": "Feature",
       "properties": {
         "name": "Amyrlin",
-        "color": "deeppink",
+        "fill": "deeppink",
         "labelAngle": 0
       },
       "geometry": {
@@ -625,7 +625,7 @@
         "fill": "#dc8add",
         "fill-opacity": 0.5,
         "name": "Gallifrey",
-        "color": "purple"
+        "fill": "purple"
       },
       "geometry": {
         "type": "Polygon",
