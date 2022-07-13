@@ -4,8 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "blue",
-        "fillOpacity": 0.6,
         "name": "Gallifrey",
         "color": "purple"
       },
