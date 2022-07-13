@@ -6,7 +6,7 @@
       "properties": {
         "name": "Gallifrey",
         "fill": "purple",
-        "SD_NAME": ""
+        "SD_NAME": "Gallifrey"
       },
       "geometry": {
         "type": "Polygon",
@@ -133,6 +133,7 @@
       "properties": {
         "name": "Halcyon",
         "color": "green"
+        "SD_NAME": "Halcyon"
       },
       "geometry": {
         "type": "Polygon",
