@@ -1261,22 +1261,6 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#33d17a",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-name": "Test",
-        "icon": "http://maps.google.com/mapfiles/ms/icons/blue.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.2868,
-          49.8368
-        ]
-      }
-    }
+    
   ]
 }
