@@ -6,7 +6,7 @@
       "properties": {
         "name": "Gallifrey",
         "fill": "purple",
-        "SD_NAME": "Gee"
+        "SD_NAME": ""
       },
       "geometry": {
         "type": "Polygon",
