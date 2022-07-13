@@ -135,7 +135,7 @@
       "type": "Feature",
       "properties": {
         "name": "Halcyon",
-        "color": "green"
+        "fill": "#555555"
       },
       "geometry": {
         "type": "Polygon",
